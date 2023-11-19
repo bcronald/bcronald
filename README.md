@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Clement. Amateur Radio Callsign VU2CWO.
 <!--
 **bcronald/bcronald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
